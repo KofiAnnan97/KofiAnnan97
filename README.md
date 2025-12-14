@@ -20,6 +20,7 @@
 - <b>👾 For Fun</b>
     - [GameBoy Palette Creator for Analogue Pocket](https://github.com/KofiAnnan97/apgb_converter)
     - [Game Sales Scrapper](https://github.com/KofiAnnan97/games_sales_scrapper)
+    - [Advent of Code 🎄](https://github.com/KofiAnnan97/advent_of_code)
 
 ## Skills
 
